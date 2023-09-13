@@ -1,0 +1,11 @@
+Admin :- gagan@gmail.com
+Password :- password
+
+User:- ishan@gmail.com
+Password :- 1234
+
+User:- gazala@gmail.com
+Password :- 1234
+
+User:- anushri@gmail.com
+Password :- 1234
